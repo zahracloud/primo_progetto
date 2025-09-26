@@ -1,3 +1,2 @@
-Questa e la seconda versione del mio primo esercizio con git
-Questa e la seconda versione
-
+Questa e la prima versione del mio primo esercizio con git
+Questa e la seconda versione del mio primo esercizio con Git
